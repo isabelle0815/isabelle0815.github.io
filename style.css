@@ -1,11 +1,14 @@
 .menu {
 	font-family: 'Arapey', serif;
+	font-size: 18px;
+	text-align: center;
+
 }
 .menu > a {
 	text-decoration: none;
 	color: darkblue;
-	font-size: 20px;
+	margin-right: 20px:
 }
-.menu > a:visited {
+.menu > a:hover {
 	color: lightblue;
 }
