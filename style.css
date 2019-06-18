@@ -1,14 +1,17 @@
-.menu {
-	font-family: 'Arapey', serif;
-	font-size: 18px;
-	text-align: center;
-
+h1 {
+  font-family: 'Nunito', sans-serif;
+padding-bottom: 5px;
+border-bottom: 2px dotted black;
 }
-.menu > a, h1 {
+.menu > a {
+	font-family: 'Quicksand', sans-serif;
 	text-decoration: none;
-	color: darkblue;
-	margin-right: 20px:
+	color: lightblue;
+	margin-right: 20px;
 }
 .menu > a:hover {
-	color: lightblue;
+	color: darkblue;
+}
+.menu >a:visited {
+	color: red;
 }
