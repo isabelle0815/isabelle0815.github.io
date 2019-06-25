@@ -1,17 +1,24 @@
-h1 {
-  font-family: 'Nunito', sans-serif;
-padding-bottom: 5px;
-border-bottom: 2px dotted black;
+.menu {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 18px;
+	width: 700px;
+	margin: auto;
 }
 .menu > a {
-	font-family: 'Quicksand', sans-serif;
 	text-decoration: none;
-	color: lightblue;
+	color: black;
 	margin-right: 20px;
+}
+
+.menu >a:visited {
+	color: rgb(103, 46, 211);
 }
 .menu > a:hover {
 	color: darkblue;
 }
-.menu >a:visited {
-	color: red;
+
+h1 {
+  font-family: 'Nunito', sans-serif;
+padding-bottom: 5px;
+border-bottom: 2px dotted black;
 }
