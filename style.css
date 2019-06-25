@@ -9,6 +9,8 @@
 	width: 700px;
 	margin: auto;
 	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
 .menu > a {
 	text-decoration: none;
@@ -17,10 +19,10 @@
 }
 
 .menu >a:visited {
-	color: rgb(103, 46, 211);
+	color: rgb(44, 0, 126);
 }
 .menu > a:hover {
-	color: darkblue;
+	color: rgb(16, 58, 75);
 }
 
 h1 {
@@ -28,3 +30,8 @@ h1 {
 padding-bottom: 5px;
 border-bottom: 2px dotted black;
 }
+
+.conteudo {
+	font-family: 'Quicksand', sans-serif;
+	line-height: 32px;
+} 
