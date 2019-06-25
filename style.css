@@ -34,4 +34,14 @@ border-bottom: 2px dotted black;
 .conteudo {
 	font-family: 'Quicksand', sans-serif;
 	line-height: 32px;
-} 
+}
+
+.img-principal {
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+.selecionado {
+	border-bottom: 2px dotted powderblue;
+}
