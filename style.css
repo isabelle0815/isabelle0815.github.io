@@ -1,8 +1,14 @@
+.largura {
+	width: 700px;
+	margin: auto;
+}
+
 .menu {
 	font-family: 'Quicksand', sans-serif;
 	font-size: 18px;
 	width: 700px;
 	margin: auto;
+	text-align: center;
 }
 .menu > a {
 	text-decoration: none;
