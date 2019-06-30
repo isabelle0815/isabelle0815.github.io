@@ -9,7 +9,7 @@
 
 .menu {
 	font-family: 'Quicksand', sans-serif;
-	font-size: 18px;
+	font-size: 15px;
 	width: 710px;
 	margin: auto;
 	text-align: center;
@@ -20,8 +20,9 @@
 
 .menu > a {
 	text-decoration: none;
-	color: blueviolet;
-	margin-right: 20px;
+	color: white;
+	margin-right: 7px;
+	margin-left: 7px;
 }
 
 .menu >a:visited {
@@ -37,7 +38,7 @@ h1 {
 	border-bottom: 5px dotted white;
 }
 
-p {
+p, a {
 	margin-left: 20px;
 }
 
@@ -61,9 +62,16 @@ h2, h3, h4, iframe {
 .selecionado {
 	border-bottom: 4px dotted white;
 }
-
 .preenchimento {
   background-color: purple;
-  height: 25px;
+  height:30px;
 	display:block;
+}
+
+.oi {
+	float: right;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 20px;
+  width: 250px;
 }
