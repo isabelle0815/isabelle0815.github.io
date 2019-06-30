@@ -63,15 +63,15 @@ h2, h3, h4, iframe {
 	border-bottom: 4px dotted white;
 }
 .preenchimento {
-  background-color: purple;
-  height:30px;
+	background-color: purple;
+	height:30px;
 	display:block;
 }
 
 .oi {
 	float: right;
-  margin-left: 40px;
-  margin-right: 40px;
-  margin-bottom: 20px;
-  width: 250px;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-bottom: 20px;
+	width: 250px;
 }
